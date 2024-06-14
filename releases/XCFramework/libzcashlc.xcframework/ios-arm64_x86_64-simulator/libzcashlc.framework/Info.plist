@@ -11,12 +11,14 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleVersion</key>
-	<string>0.8.0</string>
+	<string>0.8.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iphonesimulator</string>
 	</array>
 	<key>MinimumOSVersion</key>
 	<string>100.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.8.1</string>
 </dict>
 </plist>
